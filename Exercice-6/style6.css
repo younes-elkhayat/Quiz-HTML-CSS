@@ -1,0 +1,22 @@
+div{
+    position: relative;
+}
+img{
+    height: 250px;
+    width: 250px;
+}
+.top{
+    position: absolute;
+    right: 50%;
+    top: 15%;
+}
+.right{
+    position: absolute;
+    right: 65%;
+    top:60%;
+}
+.left{
+    position: absolute;
+    right: 35%;
+    top:60%;
+}

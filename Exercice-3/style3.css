@@ -1,0 +1,7 @@
+div{
+    display: list;
+}
+h2{
+    display: list-item;
+    list-style-position: inside;
+}

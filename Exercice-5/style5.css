@@ -1,0 +1,25 @@
+.row{
+    display: flex;
+}
+.col-20{
+    width: 20%;
+    border: 3px darkblue solid;
+}
+.col-20>a{
+    display: list-item;
+}
+.col-65{
+    width: 65%;
+    border: 3px darkblue solid;
+}
+.col-15{
+    width: 15%;
+    border: 3px darkblue solid;
+    
+}
+img{
+    height: 50px;
+    width: 50px;
+    display: list-item;
+    margin: auto;
+}
